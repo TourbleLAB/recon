@@ -1,0 +1,6 @@
+{
+  "token": "TOKEN_HERE", 
+  "prefix": "r!", 
+  "hostedBy": true,
+  "everyoneMention": true
+}
